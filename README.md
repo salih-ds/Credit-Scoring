@@ -12,7 +12,7 @@ Python 3.7.6
 
 ###
 ## Сборка
-    git clone https://github.com/salih-ds/Credit-Scoring.git
+    git clone https://github.com/salih-ds/credit-scoring.git
 
 ## Данные и описание полей
 https://www.kaggle.com/competitions/sf-dst-scoring/data
